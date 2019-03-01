@@ -38,6 +38,9 @@ to run the script you need just the input folder, and all the raster will be sav
 
 # *Thanks and hope could be helpful to you*
 
-*Autor: Jorge Andrés Herrera Maldonado*
-*FDCS PROJECT*
+*FCDS PROJECT*
+
+<p align="center">
+  <img src="https://github.com/joaherrerama/PyQGIS---NDVI-SAVI-AND-BAIS-INDEX/blob/master/Logo.png">
+</p>
 
